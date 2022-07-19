@@ -5,6 +5,8 @@
 <img src="https://komarev.com/ghpvc/?username=odayani&style=plastic" />
 
 Software Engineering Student Year 4<br>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="c" width="25" height="25" />
+
 
 - 🌱 Looking for the next challenge.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
