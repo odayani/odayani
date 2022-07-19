@@ -6,7 +6,7 @@
 
 Software Engineering Student Year 4<br>
 
-- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
+- 🌱 Looking for the next challenge.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
