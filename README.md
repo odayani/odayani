@@ -39,7 +39,6 @@ I love to learn about how things work and try new tools and technologies and sha
 <code><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="50" height="50" /></code>
 <code><img src="https://user-images.githubusercontent.com/76852813/172722267-f6f30163-ec39-4d98-a106-7c91394f4c44.svg" alt="pyCharm" width="50" height="50" /></code>
-<code><img src="https://user-images.githubusercontent.com/59575502/127428631-5ab21a62-ac89-4919-9408-724df88ab245.png" alt="nodejs" width="50" height="50" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="mysql" width="50" height="50" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="git" width="50" height="50" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127427342-0ff4c732-b5dd-4f67-b4d3-e6cc3d9d7f72.png" alt="android" width="50" height="50" /></code>
