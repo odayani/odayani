@@ -39,7 +39,6 @@ I love to learn about how things work and try new tools and technologies and sha
 <code><img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="git" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127427342-0ff4c732-b5dd-4f67-b4d3-e6cc3d9d7f72.png" alt="android" width="40" height="40" /></code>
-<code><img src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r" width="40" height="40" /></code>
 </p>
 <br>
 <br>
