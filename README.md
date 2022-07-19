@@ -4,12 +4,18 @@
 [![Gmail Badge](https://img.shields.io/badge/odayani21@gmail.com-94eee8?style=flat&logo=Gmail&logoColor=red)](mailto:odayani21@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=odayani&style=plastic" />
 
+<br>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
+
 Software Engineering Student Year 4<br>
 I love to learn about how things work and try new tools and technologies and share time with developer communities and events.
 
 - 🌱 Looking for the next challenge.
 - 💬 
 - ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
+</br>
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
