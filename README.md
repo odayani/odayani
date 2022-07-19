@@ -47,4 +47,3 @@ Software Engineering Student Year 4<br>
 <p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/odayani)
 </p>
----
