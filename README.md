@@ -8,9 +8,8 @@ Software Engineering Student Year 4<br>
 
 
 - 🌱 Looking for the next challenge.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
+- 💬 
 - ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
-- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
@@ -31,7 +30,6 @@ Software Engineering Student Year 4<br>
 <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/59575502/127427342-0ff4c732-b5dd-4f67-b4d3-e6cc3d9d7f72.png" alt="android" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
 </p>
 <br>
 <br>
