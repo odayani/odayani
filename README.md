@@ -1,9 +1,8 @@
 <h1>Hey there, I'm <a  href="https://github.com/odayani/">Or Dayani </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanyagupta0201)
 [![linkedin badge](https://img.shields.io/badge/Or-Dayani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/or-dayani/)
 
-[![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:tanyagupta.pg@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/odayani21@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:odayani21@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
 I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
