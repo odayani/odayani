@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=odayani&style=plastic" />
 
 Software Engineering Student Year 4<br>
-
+I love to learn about how things work and try new tools and technologies and share time with developer communities and events.
 
 - 🌱 Looking for the next challenge.
 - 💬 
