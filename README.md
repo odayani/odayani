@@ -3,8 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-236dab?style=flat&logo=linkedin&labelColor=236dab)](https://www.linkedin.com/in/odayani)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:odayani21@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=odayani&style=plastic">
-#
-
 <a target="_blank"> 
   <img align="right" height="250" width="350" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
@@ -14,9 +12,9 @@ I love to learn about how things work and try new tools and technologies and sha
 
 
 
-- 🌱 Looking for the next challenge.
+- 🌱 Looking for the next challenge will grew me up
 - 💬 Ask me about anything, I am happy to help
-- ⚡ 
+- ⚡ Learning something new everyday
 - 🌍 Based in Israel
 
 </br>
