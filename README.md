@@ -13,7 +13,6 @@ Software Engineering Student Year 4<br>
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
-<code>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="40" height="40" />
@@ -32,8 +31,8 @@ Software Engineering Student Year 4<br>
 <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/59575502/127427342-0ff4c732-b5dd-4f67-b4d3-e6cc3d9d7f72.png" alt="android" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
 </p>
- </code>
 <br>
 <br>
 
