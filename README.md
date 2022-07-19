@@ -20,15 +20,15 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=odayani&theme=react-dark)
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=odayani&theme=dark&hide_border=false" width = 500>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&theme=dark" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=odayani&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/tanyagupta0201/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odayani&theme=dark)](https://github.com/odayani/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/odayani)
 
 ---
 
