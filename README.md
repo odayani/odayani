@@ -2,7 +2,7 @@
 
 [![linkedin badge](https://img.shields.io/badge/Or-Dayani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/or-dayani/)
 [![Gmail Badge](https://img.shields.io/badge/odayani21@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:odayani21@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=odayani&style=plastic" />
 
 I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
