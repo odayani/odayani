@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/odayani/">Or Dayani </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm <a  href="https://github.com/odayani/">Or Dayani </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-94eee8?style=flat&logo=linkedin&labelColor=94eee8)](https://www.linkedin.com/in/odayani)
 [![Gmail Badge](https://img.shields.io/badge/odayani21@gmail.com-94eee8?style=flat&logo=Gmail&logoColor=red)](mailto:odayani21@gmail.com)
