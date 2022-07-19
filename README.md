@@ -44,7 +44,3 @@ I love to learn about how things work and try new tools and technologies and sha
 </p>
 <br>
 <br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=odayani&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dayani Github Stats" width="60%">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3700&color=3172C4&background=8592AB05&center=true&vCenter=true&lines=Thanks+for+visiting+!)](https://git.io/typing-svg)
