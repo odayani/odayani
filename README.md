@@ -13,6 +13,7 @@ I love to learn about how things work and try new tools and technologies and sha
 
 
 - 🌱 Looking for the next challenge will grew me up
+- 👀 I’m interested in Machine Learning
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Learning something new everyday
 - 🌍 Based in Israel
