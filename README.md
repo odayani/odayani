@@ -15,8 +15,9 @@ I love to learn about how things work and try new tools and technologies and sha
 
 
 - 🌱 Looking for the next challenge.
-- 💬 
-- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
+- 💬 Ask me about anything, I am happy to help
+- ⚡ 
+-
 </br>
 
 <br>
