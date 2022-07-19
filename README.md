@@ -31,7 +31,3 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/odayani)
 
 ---
-
-Credit: [tanyagupta0201](https://github.com/tanyagupta0201)
-
-Last Edited on: 19/08/2021
