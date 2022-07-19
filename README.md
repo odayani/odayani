@@ -49,4 +49,4 @@ I love to learn about how things work and try new tools and technologies and sha
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="blue")](https://github.com/odayani)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3700&color=3172C4&background=8592AB05&center=true&vCenter=true&lines=Thanks+for+visiting+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3700&color=3172C4&background=8592AB05&center=true&vCenter=true&lines=Thanks+for+visiting+!)](https://git.io/typing-svg)
