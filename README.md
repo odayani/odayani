@@ -22,7 +22,8 @@ I love to learn about how things work and try new tools and technologies and sha
 </br>
 
 <br>
-<h3 align="center">Languages and Tools:</h3>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
 <code><img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="40" height="40"/></code>
@@ -31,6 +32,7 @@ I love to learn about how things work and try new tools and technologies and sha
 <code><img src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127428627-06e9cfab-80ba-45a2-8891-96121397ec9c.png" alt="java" width="40" height="40" /></code>
+#
 <code><img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" alt="css3" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" alt="javascript" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127428633-1f18254b-97f9-4358-aec4-3143874035f8.png" alt="react" width="40" height="40" /></code>
@@ -46,8 +48,3 @@ I love to learn about how things work and try new tools and technologies and sha
 <a href="https://github.com/thesaravanakumar"><img alt="Or Dayani`s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odayani&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/odayani)
-
-
-
-
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
