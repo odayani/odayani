@@ -32,7 +32,7 @@ I love to learn about how things work and try new tools and technologies and sha
 <code><img src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127428627-06e9cfab-80ba-45a2-8891-96121397ec9c.png" alt="java" width="40" height="40" /></code>
-#
+<br>
 <code><img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" alt="css3" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" alt="javascript" width="40" height="40" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127428633-1f18254b-97f9-4358-aec4-3143874035f8.png" alt="react" width="40" height="40" /></code>
