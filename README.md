@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-236dab?style=flat&logo=linkedin&labelColor=236dab)](https://www.linkedin.com/in/odayani)
 [![Gmail Badge](https://img.shields.io/badge/Odayani21@gmail.com-red?style=flat&logo=Gmail&logoColor=d51212)](mailto:odayani21@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=odayani&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=odayani-yellow&style=plastic" />
 
 <br>
 <a target="_blank"> 
