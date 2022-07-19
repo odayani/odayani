@@ -22,7 +22,8 @@ I love to learn about how things work and try new tools and technologies and sha
 <br>
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&lines=Languages;Tools;Operations+System+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3700&color=454BD2&background=29CFA700&center=true&vCenter=true&width=650&lines=Languages;Tools;Operations+Systems+)](https://git.io/typing-svg)
+
 <p align="center">
 <code><img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="50" height="50" /></code>
 <code><img src="https://user-images.githubusercontent.com/59575502/127426757-5335f7bc-c63a-4e58-9e96-f43982df842d.png" alt="cpp" width="50" height="50"/></code>
@@ -46,4 +47,3 @@ I love to learn about how things work and try new tools and technologies and sha
 </p>
 <br>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&lines=Languages;Tools;Operations+System+)](https://git.io/typing-svg)
