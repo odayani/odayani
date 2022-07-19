@@ -45,14 +45,5 @@ Software Engineering Student Year 4<br>
 <a href="https://github.com/thesaravanakumar"><img alt="Or Dayani`s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odayani&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=odayani&theme=react-dark)
-
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=odayani&theme=dark&hide_border=false" width = 500>
-
-<img src = "https://github-readme-stats.vercel.app/api?username=odayani&show_icons=true&theme=dark" width = 500>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odayani&theme=dark)](https://github.com/odayani/github-readme-stats)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/odayani)
-
 ---
