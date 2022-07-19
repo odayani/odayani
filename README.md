@@ -17,7 +17,8 @@ I love to learn about how things work and try new tools and technologies and sha
 - 🌱 Looking for the next challenge.
 - 💬 Ask me about anything, I am happy to help
 - ⚡ 
--
+- 🌍 Based in Israel
+
 </br>
 
 <br>
