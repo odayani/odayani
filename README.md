@@ -44,7 +44,7 @@ I love to learn about how things work and try new tools and technologies and sha
 </p>
 <br>
 <br>
-
-<align="right" a href="https://github.com/thesaravanakumar"><img alt="Or Dayani`s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odayani&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="190px"/></a>
- 
+<br align="right">
+<a href="https://github.com/thesaravanakumar"><img alt="Or Dayani`s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odayani&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="190px"/></a>
+ </br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/odayani)
