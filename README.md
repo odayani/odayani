@@ -1,7 +1,5 @@
 <h1>Hey there, I'm <a  href="https://github.com/odayani/">Or Dayani </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-94eee8?style=flat&logo=linkedin&labelColor=94eee8)](https://www.linkedin.com/in/odayani)
 [![Gmail Badge](https://img.shields.io/badge/odayani21@gmail.com-94eee8?style=flat&logo=Gmail&logoColor=red)](mailto:odayani21@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=odayani&style=plastic" />
