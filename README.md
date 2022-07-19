@@ -1,7 +1,7 @@
 <h1>Hey there, I'm <a  href="https://github.com/odayani/">Or Dayani </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-236dab?style=flat&logo=linkedin&labelColor=236dab)](https://www.linkedin.com/in/odayani)
-[![Gmail Badge](https://img.shields.io/badge/Odayani21@gmail.com-red?style=flat&logo=Gmail&logoColor=d51212)](mailto:odayani21@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Odayani21@gmail.com-red?style=flat&logo=Gmail&logoColor=29cfa7)](mailto:odayani21@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=odayani&style=plastic" />
 
 <br>
