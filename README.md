@@ -7,7 +7,7 @@
   <img align="right" height="250" width="350" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-Software Engineering Student Year 4<br>
+Software Engineer<br>
 I love to learn about how things work and try new tools and technologies and share time with developer communities and events.
 
 
